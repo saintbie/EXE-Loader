@@ -7,4 +7,6 @@ This code was implemented as short and convenient as possible so that everyone c
 
 How to set up and use this hidden loader?
 -------------------------
-Download source files and open .sln file on Visual Studio 2019
+	1. Download source files and open .sln file on Visual Studio 2019
+	2. Next, in Visual Studio, in the "Solution Explorer" window, open the program.cs file
+	3. You will see the source code with all possible loader settings, fix them and compilein Release
