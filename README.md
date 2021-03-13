@@ -4,3 +4,4 @@ Lightweight and simple hidden loader for your .exe file! With the ability to spe
 This code was implemented as short and convenient as possible so that everyone could figure it out!
 
 > Scan result: <https://antiscan.me/scan/new/result?id=9RKGtAhLcbFu> (2/26)
+окаущуокпоукщп оук пошщупоу шщкп
